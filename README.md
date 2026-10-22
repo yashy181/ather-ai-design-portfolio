@@ -1,33 +1,60 @@
 # Yash Yadav — AI × Product Portfolio
 
-A responsive, single-page portfolio website starter tailored for an AI Generalist (Design) application.
+**AI Generalist | Software Developer | Product & UI/UX Enthusiast**
 
-## Run it locally
-1. Extract the ZIP.
-2. Open the `ather_ai_design_portfolio` folder in VS Code.
-3. Open `index.html` in a browser, or use the VS Code Live Server extension.
+Welcome to my portfolio! I'm a final-year Computer Science and Engineering student at SRM Institute of Science and Technology, Chennai, interested in building intelligent applications that combine AI, software engineering, and thoughtful user experiences.
 
-No build step or package installation is required.
+This portfolio showcases selected projects focused on solving practical problems through technology, machine learning, and AI-powered workflows.
 
-## Before you submit — important checklist
-- [x] Project cards now link to the three exact GitHub repositories supplied by you.
-- [ ] Add real screenshots of your actual projects. Current project visuals are designed illustrative mockups, not screenshots captured from your applications. Your local project screenshots are not available to me, so do not present these mockups as real app screenshots.
-- [ ] Add your real email address to the contact section if you want recruiters to email you directly.
-- [ ] Replace the LinkedIn homepage URL with your own profile URL.
-- [ ] Confirm every link works in an incognito/private browser window.
-- [ ] Add a live demo link for any project that is publicly deployed.
-- [ ] Check spelling, responsiveness, and contrast on mobile and desktop.
-- [ ] Do not claim design work, user research, or performance metrics you did not actually do.
+## 🚀 Featured Projects
 
-## Publish for free
-You can publish this static website using GitHub Pages:
-1. Create a new public repository, for example `ather-portfolio`.
-2. Upload `index.html`, `style.css`, `script.js`, and `README.md` to the repository root.
-3. In GitHub, open **Settings → Pages**.
-4. Under the build/deployment section, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-5. Wait for GitHub to provide the published URL.
+### 1. AI Resume Analyzer
+An AI-powered application designed to analyze resumes and help candidates understand their skills and resume quality.
 
-## Customize
-- Main content and links: `index.html`
-- Colors, typography, layout: `style.css`
-- Lightweight scroll reveal effect: `script.js`
+- **Focus:** Resume analysis and career assistance
+- **Repository:** [AI Resume Analyzer](https://github.com/yashy181/AI-Resume-Analyzer)
+
+### 2. AI Interview Preparation Platform — DevGenius AI
+An AI-powered platform featuring tools such as an interview question generator, resume analyzer, code reviewer, and career advisor.
+
+- **Focus:** AI-assisted interview preparation and developer productivity
+- **Repository:** [AI Interview Preparation Platform](https://github.com/yashy181/Ai-Interview-Preparation-Platform)
+
+### 3. Intelligent Crop Recommendation System
+A machine-learning project that recommends suitable crops based on agricultural parameters, supporting data-informed agricultural decisions.
+
+- **Focus:** Machine learning and sustainable agriculture
+- **Repository:** [Intelligent Crop Recommendation System](https://github.com/yashy181/Intelligent-Crop-Recommendation-System)
+
+## 🛠️ Skills & Technologies
+
+- **Programming:** Python, JavaScript, C
+- **AI & Machine Learning:** PyTorch, scikit-learn, machine-learning workflows
+- **Web Development:** HTML, CSS, JavaScript, React, Vite, Flask
+- **Databases:** MySQL
+- **Product Interests:** AI-powered experiences, problem-solving, UI/UX, and user-centered design
+
+## 💡 My Approach
+
+I believe useful technology begins with understanding a real problem. My approach is to:
+
+1. Understand the problem and the needs of the intended user.
+2. Explore possible solutions and define a clear workflow.
+3. Build a working application using suitable technologies.
+4. Evaluate the result and identify opportunities for improvement.
+
+I'm particularly interested in exploring how AI can make digital products more useful, intuitive, and accessible.
+
+## 🎓 Education
+
+**B.Tech — Computer Science and Engineering**  
+SRM Institute of Science and Technology, Chennai, India
+
+## 🔗 Connect With Me
+
+- **GitHub:** [github.com/yashy181](https://github.com/yashy181)
+- **LinkedIn:** Add your LinkedIn profile URL here.
+
+---
+
+*Thank you for taking the time to explore my work.*
