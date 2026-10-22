@@ -53,7 +53,7 @@ SRM Institute of Science and Technology, Chennai, India
 ## 🔗 Connect With Me
 
 - **GitHub:** [github.com/yashy181](https://github.com/yashy181)
-- **LinkedIn:** Add your LinkedIn profile URL here.
+
 
 ---
 
